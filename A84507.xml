@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Strafford's ghost complaining, of the cruelties of his countrey-men, in killing one another. And perswading all great men to live honestly, that desire to die honourably. Herein also are his bad practises manifested, and the sad condition of England and Ireland, express'd and commiserated.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84507</idno>
+            <idno type="STC">Wing E84</idno>
+            <idno type="STC">Thomason E6_33</idno>
+            <idno type="STC">ESTC R7062</idno>
+            <idno type="EEBO-CITATION">99873079</idno>
+            <idno type="PROQUEST">99873079</idno>
+            <idno type="VID">154729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Strafford's ghost complaining, of the cruelties of his countrey-men, in killing one another. And perswading all great men to live honestly, that desire to die honourably. Herein also are his bad practises manifested, and the sad condition of England and Ireland, express'd and commiserated.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, for G. Bishop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 22. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154729:1" rendition="simple:additions"/>
+            <p>The Earle of STRAFFORDS GHOST <hi>Complaining.</hi>
+            </p>
+            <p>Of the Cruelties of his Countrey-men, in Killing one another. And perſwading all great Men to live honeſtly, that deſire to die Honourably.</p>
+            <p>Herein alſo are his bad Practiſes manifested, and the ſad Condition of <hi>ENGLAND</hi> and <hi>IRELAND,</hi> Expreſs'd and Commiſerated.</p>
+            <figure>
+               <figDesc>depiction of the Earl of Strafford's ghost</figDesc>
+               <lg>
+                  <l>I am not come againe to amaze the eye,</l>
+                  <l>But the corrupted ſoule to terrifie;</l>
+                  <l>Let not my ſhape affright you, but my crimes,</l>
+                  <l>For the ſecuritie of future times.</l>
+               </lg>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed according to Order, for <hi>G. Biſhop,</hi> Auguſt 22. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154729:2"/>
+            <head>The Earle of <hi>STRAFFORDS</hi> GHOST, <hi>Complaining of the crueltie of his Countrey men in killing one another.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat ſtill at it Countrey men? Do's your thirſt in<g ref="char:EOLhyphen"/>creaſe with your drunkennes? Will nothing cure your dropſie but a generall devaſtation? Are not your veines yet dry enough? Is not the earth moiſt enough with your blood? I little thought ye had lov'd me ſo dearly, that for my ſake ye would have all bled to death as I did; and indeed had I miſtruſted any ſuch matter, I would for your ſakes have beene honeſt in ſpight of Honour, and have liv'd to give my Sove<g ref="char:EOLhyphen"/>raigne better counſell. O the guilt that ſticks upon my ſad ſoule will ne<g ref="char:EOLhyphen"/>ver be waſh'd off with theſe ſhowers of blood and teares, ſpare them deare Countrey men, ſheath not your ſwords in one another bowels till there be none left to puniſh, nor any to periſh: pray make not me your example. Alas, I was a mightie Malefactour, you are innocent; I died becauſe I was guiltie, do not you make your ſelves guiltie by dying. Indeed I was made an Inſtrument i'my life time to ſet theſe warres o'foot: for which my af<g ref="char:EOLhyphen"/>flicted Ghoſt (haunted with horrour) can take no reſt, as long as they con<g ref="char:EOLhyphen"/>tinue; ther's not a man falls, nor a wound given but I am ſenſible of it, I ſmart for't, ſo cloſely am I follow'd by Divine Juſtice, for betraying Innocency. Conſider O yee Mortalls that live i'the ſame ſtate I died in, what I might have been, and what I am; how bravely I might have liv'd, how wretchedly I died, and how juſtly I am tormented. Survay the courſe I ran, and ſhun it; keepe from the Court, 'tis infectious; be not be<g ref="char:EOLhyphen"/>witch'd with the vaine hope of greatnes; purchaſe not honour with diſho<g ref="char:EOLhyphen"/>neſtie,
+<pb n="3" facs="tcp:154729:2"/> leſt your lives and fames periſh together, and your Ghoſts hereaf<g ref="char:EOLhyphen"/>ter affright your poſteritie with diſmall apparitions, and the fearefull Re<g ref="char:EOLhyphen"/>lations of theſe bloodie broiles.</p>
+            <p>And O King, I muſt not flatter thee now, nor need I; I am out of thy power! Looke upon thy owne worke, and conſider how other Kings liv'd and died, and what fame follow'd 'em that gave their minde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Ty<g ref="char:EOLhyphen"/>rannie, to crueltie, to murther. Haſt never an honeſt man about thee to lay theſe things before thee? none but villaines at thy elbow ſtill, that ſeeke the ruine of thee and all thy Kingdomes? why where are all thy Bi<g ref="char:EOLhyphen"/>ſhops now? thou't heare them; they can (if they pleaſe) tell the ſtrange and true Stories of the lives of thy Predeceſſors; they have bin forward enough to bring thee on; wher's now their wiſedome and learning, their zeale and affection, their power and pollicie to bring thee off againe? What good have their counſels done thee? Poore <hi>Ireland's</hi> deſolate, <hi>England's</hi> deſpe<g ref="char:EOLhyphen"/>rate, and <hi>Scotland's</hi> in danger; and can thy Biſhops make thee beleeve that thy perſon is in ſafety, when thy three Kingdoms are a fire about thy eares? or that the Prince may proſper, when his people periſh? Truſt'em no lon<g ref="char:EOLhyphen"/>ger King, they f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tter thee for their own ends, and feare onely their owne falls, and that makes 'em endeavour to perſwade thee that the Miter and the Crowne are inſeparable; They love thee for their owne honours not for thine; for the benefit of <hi>Rome,</hi> not of <hi>England,</hi> they deſire thou ſhould'ſt live to be ſubject to them, rather then thy people ſhould live to be ſubject to thee, and therefore according to their owne law and honeſtie theſe in<g ref="char:EOLhyphen"/>humane Maſſacres and Murders are cryed up, and kept up by their care and counſell as convenient and neceſſary: Wher's little <hi>Land,</hi> and great <hi>Canterbury</hi> all this while, do's the Tower ſtill keepe that grace and good<g ref="char:EOLhyphen"/>neſſe together? Hath the holy man wrought ſo many miracles, that they cannot all this while be reckon'd up, and ſet downe in a Chronicle? I have look'd long for him, and wonder he ſhould be ſo ſlow to follow mee, that was ſo forward to ſend me packing. O how carefull he was at our firſt ac<g ref="char:EOLhyphen"/>quaintance to get me into favour at Court, and make mee acquainted with a Duke of his owne condition, that I might be hanſomly handl'd betwixt 'em, and ſcrew'd up into a capacitie of furthering Court deſignes, and abu<g ref="char:EOLhyphen"/>ſing the Common-wealth. He tooke a great deale of paines to make me a great Counceller, that he might with the leſſe pains bring me and the King<g ref="char:EOLhyphen"/>dom to nothing; I muſt forſooth be converſant with my King and flatter him, this (he told me) would bring me along by the path of preferment to the honour I aim'd at; ſo I follow'd his advice and proſper'd: My carri<g ref="char:EOLhyphen"/>age and my councells were ſo approv'd of, that I was held a fit man to be a Governour Away I went for <hi>Ireland,</hi> where (my ſwelling thoughts appea<g ref="char:EOLhyphen"/>ring
+<pb n="4" facs="tcp:154729:3"/> in my countenance) I ſoon purchaſed (to the ſatisfaction of my ſoul) the reſpect of a Prince. What was then to be done? Meane actions are not fit for mightie men, I muſt exceed my Predeceſſors, and I muſt pleaſe my Soveraigne, all fell out according to mine own heart, for I could not doe the one, but I muſt needs doe the other; ſo I preſently bent my endea<g ref="char:EOLhyphen"/>vours to ſubvert the laws I lik'd not, and made (for mine own advantage) what laws I liſted. The power of a Prince would no longer content me, ſo that I cauſ'd many times the beſt men to be puniſh'd by the hands of the baſeſt, on purpoſe to have my actions grac'd with the name of tyranie. This was the Government I aim'd at, and to maintaine this, I made bold (by His Majeſties leave) to compell the people (by force of Armes) to obe<g ref="char:EOLhyphen"/>dience. Thus their lives and liberties were at my diſpoſure, honour and wealth came flowing in upon me, and ambition told mee I had found out the true way to be great, and happy. But for all this I was not unmindfull of the worke I was put upon, I ſtuck cloſe to my maine buſines, the riſe of the Papiſts muſt be the ruine of the Proteſtant, and whether I have not prov'd faithfull in that, let the world judge: But O monſtrous ingratitude! how am I rewarded? O ye <hi>Iriſh, Engliſh,</hi> and <hi>Scot'ſh</hi> Catholike Gentle<g ref="char:EOLhyphen"/>men, what affront have I given you? if your owne plots have wrought your own deſtructions, what's that to me? I ſpent my life in your quar<g ref="char:EOLhyphen"/>rell, and now for my paines I am toſſed from one ſide to another, and not ſuffered to reſt in my grave; which way have I deſerv'd this? Wherein have I been diſobedient to his Majeſtie, or croſſe to any of your wicked Counſells? What have I done to purchaſe reproach on your part? nay, what have I not done to merit your love and favour? Did I not in my life time bring on the buſines bravely? Was it not I that arm'd the <hi>Iriſh</hi> Catholikes, and diſarm'd the Proteſtants, on purpoſe to make you happie (if heaven had had a minde to't?) Was it not I that indeavour'd to make the <hi>Engliſh</hi> and <hi>Scottiſh</hi> Proteſtants worke themſelves into a weake condi<g ref="char:EOLhyphen"/>tion, by ſetting the two Nations together by the eares, when <hi>Arundell, Dig<g ref="char:EOLhyphen"/>by, Cottington, Windebank,</hi> &amp;<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. had made way for the <hi>Spaniſh</hi> ſecond <hi>Armado</hi> to ſecond the buſines? 1639. Was it not I that laid huge taxes, and impoſ'd great ſums upon many Townes and houſes in <hi>Ireland,</hi> and forc'd payment by my ſouldiers in a warlike manner? Did not I with my Troopes compell divers great Lords and Gentlemen there, to forſake their own poſſeſſions, and yeeld up their rights i'their livings contrary to Law and Juſtice? Did not I am many other unlawfull and uncon<g ref="char:EOLhyphen"/>ſcionable enterpriſes enhaunce the rates of al cuſtomarie commodities, and make reſtraint of their tranſportation at my pleaſure, and all to bring in money to maintaine the (then) intended Rebellion, and the wars like to
+<pb n="5" facs="tcp:154729:3"/> follow it? Did not I alſo (for the ſame cauſe) become the onely Mer<g ref="char:EOLhyphen"/>chant of Tobacco in <hi>Ireland,</hi> as his Majeſtie did of Gunpowder in <hi>Eng<g ref="char:EOLhyphen"/>land? The ingroſſing of two ſuch commodities by a King and his <g ref="char:V">Ʋ</g>ice-ray, are worthy the worlds obſervation.</hi> Did I not beſides reſtore your Frieries and Maſſe-Houſes, and force a new Oath upon the Proteſtant to tie him to the obſervation of all Church Ceremonies in uſe for the preſent, or to be hereafter eſtabliſhed by his Majeſties authoritie? Did not <hi>Canterbury</hi> and I (when we perceiv'd we could not couſin the Parliament of ſo many Subſidies, as we thought would ſerve our turnes to undoe the Kingdome) cauſe it to be broke up, and did I not then promiſe his Maieſtie to bring downe the ſturdy ſtomacks of His people by my <hi>Iriſh</hi> Catholike Armie? Did I not further perſwade his Majeſtie to reviue the levying of Ship<g ref="char:EOLhyphen"/>money, and to puniſh many Sheriffes of the Counties, about that and other payments for being obſtinate honeſt men? And did I not threaten the Lord Maior and Sheriffes of <hi>London</hi> at the Councell-Table, for not yeelding to a buſines of the like nature? Was not I the cauſe of ſome of the Aldermen of <hi>Londons</hi> commitments, for not diſcovering the abilities of their neighbou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. And were not all theſe things done for your ſakes? Yes, yee know they were, and yee lik'd 'em well enough, and mee too all the vvhile yee proſper'd. VVhen the Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> grew to ſuch a height, that yee ſuppoſed no power could hinder your conqueſt: when ye were either bloody actors, willing ſpectators, or joyfull hearers of the Stories of thoſe horrid maſſacres; and when the men, money, and Armes, ſent over by the Parliament (his Majeſtie deſiring it) againſt the Rebells, were again (by your counſells) at his Maieſties com<g ref="char:EOLhyphen"/>mand, made uſe of by the Rebells againſt the Proteſtants, then were my actions of high eſteem, and my Name was famous amongſt you. O you Romane Catholike Courtiers, you that are ſtill mighty men with his Ma<g ref="char:EOLhyphen"/>jeſtie, can you not worke your wills in <hi>England</hi> yet? No new project? No quaint device to cleere the Kingdome of Proteſtants? Did I begin to work ſo handſomly, and can you not goe forward; can you not finiſh't? Have not the lazie <hi>Iriſh</hi> done their worke at home yet, that they may move with a full body, and make an end of their Tragedie here, to you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eternall con<g ref="char:EOLhyphen"/>tent! But oh—! Eternall did I ſay? Did you with your clamours raiſe me from my grave, to have my counſell? Did you in ſerious ſadneſſe? take it then: proceed not in theſe dangerous and damnable courſes, except ye have no ſoules, or know no God; remember the word <hi>Eternall!</hi> and be confident, that ſuch works as you are now in hand with, cannot be fini<g ref="char:EOLhyphen"/>ſhed in this world. Y'are content for the preſent to hear of the cruell ſlaughter of your innocent Countrey-men, and think your ſelves ſafe un<g ref="char:EOLhyphen"/>der
+<pb n="6" facs="tcp:154729:4"/> the wings of your Soveraigne; but the more ſecurity, the more dan<g ref="char:EOLhyphen"/>ger: Take heed ye be not couzen'd of your lives, as I was; remember the word <hi>Eternall,</hi> and make preparation for a better world, before y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leave this, that's the worſe for ye, and growes weary of ye: Be acceſſary to no more blood, y'ave waded deep already, conſider my condition, that am hurried (as in a whirl-wind) from one place to another, now I am in <hi>York,</hi> ſtraight in <hi>London,</hi> by and by in <hi>Ireland,</hi> and in every place ſuffer varietie of afflictions, according to my crimes: Here I am plagu'd for my bad Councells, there for my worſe actions; in one place for my Ambition, in another for my luxurie; but every where for being acceſſary to this h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<g ref="char:EOLhyphen"/>liſh Plot, of murthering Chriſtians. In <hi>York</hi> I am much tormented, in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> more, in <hi>Ireland</hi> moſt of all; where many times, as in a Theater, the bloody Tragedies I made way for in my life time, are preſented to my view. The lamentable cries of my own Countrey-men inhumanely mur<g ref="char:EOLhyphen"/>thered, affright me on one ſide, and the damnable oathes and execrations of the perfidious Rebells terrifie me on the other. The high wayes and fields are ſtrew'd with mangl'd Carcaſes, ſome dead, o pittifull, ſome dy<g ref="char:EOLhyphen"/>ing, o miſerable, but many lame and wounded, lie gaſping and groaning, expos'd to the lingring rage of cold and hunger, O intollerable! Some<g ref="char:EOLhyphen"/>times I meet with hundreds of men, women, and children ſtark naked, run<g ref="char:EOLhyphen"/>ning from one death to meet another, as rather truſting to the fury of froſt and ſnow, then to the mercy of the inſulting Enemy. Theſe are no ſooner out of my view, but as many more (betraid by promiſe of quarter) are rob'd and ſtrip'd in my ſight, by a crew of periur'd villaines, that ſhow they are uncapable of mercy themſelves, by denying mercy to Innocents that beg it. I have bin forc'd to behold with horror, as I am now to report with paine, the eruelty exercis'd upon Miniſters by Monſters; ſome I have ſeen cut in pieces, ſome whipt, ſome hang'd up, cut down, quarter'd, and their mouthes ſtop'd with their members; others I have ſeen hang'd, and their fleſh pull'd from their bones in the ſight of their wives, and ſome tyed to tre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, whil'ſt the baſeſt of the rabble have raviſhed their wives and daughters before their faces, and then hang'd up their parents in the ſight of their children.</p>
+            <p>I have ſeen men and women ſet upon burning hot Gridirons, and others tortur'd by clapping hot Tongs to their hands and feet to make 'em diſco<g ref="char:EOLhyphen"/>ver their hidden Treaſure.</p>
+            <p>Young virgins have been bound and raviſhed by the Rebells, whereof ſomo have had their tongues cut out, that the cruelty might be conceal'd, and others been ſcript, and turn'd naked amongſt the common Souldiers.</p>
+            <p>
+               <hi>I</hi> have beheld young infants roſted upon ſpits before their Parents faces,
+<pb n="7" facs="tcp:154729:4"/> whilſt they have been tyed in Chaires, and forc'd to be wofull ſpectators of their childrens inhumane tragedier, and expecters of their own: then the wife has bin ſtript, and forc'd in the ſight of her husband, and at laſt the huſ<g ref="char:EOLhyphen"/>band <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s'd of the intollerable torment he ſuffered in (ſeeing all this) by be<g ref="char:EOLhyphen"/>ing murdered.</p>
+            <p>
+               <hi>I</hi> have beheld women with child rip'd up after they have been raviſh'd and the children ſlung into the fire; ſome <hi>I</hi> have ſeen hang'd, and ſome dragg'd up and down the ſtreets by the haire of the head; and <hi>I</hi> have ſeen children toſſ'd into the water with Pitchforkes, the braines of ſome daſh'd againſt the poſts, and others ſnatch'd out of their mothers Armes, and burnd before their faces; amongſt theſe, and thouſands, the like barbarous cruelties, and murthers, <hi>I</hi> have beheld ſome throwne upon dunghills with their guts half out, that have not been able with their wofull cries and la<g ref="char:EOLhyphen"/>mentations to move ſo much pittie in the mercileſſe murtherers, as to put 'em out of their pain.</p>
+            <p>And what think ye now? are theſe commendable Actions? are theſe pleaſant objects? is all this done for the grace of Chriſtianity, or the glo<g ref="char:EOLhyphen"/>ry of his Maieſtie! Was ever Religion ſought, or bought with ſo much blood, or abſolute Soveraignty with ſuch infinite ſlaughter! And are ye not ſatisfyed yet? not yet weary? not yet aſhamed<g ref="char:punc">▪</g> d'ye ſuppoſe that ye have not yet made work enough for a Chronicle, that your childrens children will be amaz'd to read? and bluſh when they ſhall find i'the Margent, that all this blood was ſpilt by the pernitious counſells of their graceles grand<g ref="char:EOLhyphen"/>fathers! Are the miſeries of <hi>Ireland</hi> nothing, unleſſe <hi>England</hi> ſmart in the ſame degree? O <hi>I</hi> am rack'd and tortur'd, poor <hi>England</hi> ſuffers in a farre higher nature, and is hardly ſenſible of it: Alas, in <hi>Ireland</hi> the Papiſts only kill the Proteſtants, the <hi>Iriſh</hi> murther the <hi>Engliſh,</hi> but heere the <hi>Engliſh</hi> kill the <hi>Engliſh,</hi> the Proteſtant murders the Proteſtant, there the greateſt part of them that are kill'd, are women and children, heere the beſt men are pick't out, and arm'd to kill one another.</p>
+            <p>This is your device <hi>Digby,</hi> your craft <hi>Cottington,</hi> your policie <hi>Porter;</hi> what the <hi>Iriſh</hi> Rebells, Engliſh <hi>Papiſts,</hi> and the Biſhops cannot doe, to pro<g ref="char:EOLhyphen"/>more Popery, muſt be done by the Proteſtant himſelf; when this plot was firſt contriu'd i'the Devils fencing-ſchool, ſome of ye plaid your Maſter<g ref="char:EOLhyphen"/>prize there. But to what end have ye taken all this paines? where are your hopes (for all this) of working your wills, and advancing their Papall Monarchie? How much the neerer are you to the good you aime at, by doing all this miſchief! O for ſhame give over, lay by your wicked re<g ref="char:EOLhyphen"/>ſolutions, theſe courſes will neither purchaſe happineſſe heere, nor heaven hereafter. Hark how the Rebells rave, as if they were in hell already, you
+<pb n="6" facs="tcp:154729:5"/> have vndone 'em, their Liberties, Lands and Lives are all forfeited through your unhappy counſels, this is their clamour. Your own Countrey men the Papiſts are growne ſenſible now at length of your ſhamefull proceedings, and curſe your plots and practiſes, d'ye not heare 'em? And the King whom you threatn'd to make Mightie by killing his Subiects, is brought into ſuch ſtreights by your ſtratagems, that hee dares not doe what hee ought, nor find fault with that hee likes not, what thinke ye of this, are yee not in a fine condition? and how will yee recover? your fa<g ref="char:EOLhyphen"/>vourers ſuſpect you, and your favourites hate you, what will become of you? O wretched men, why doe ye ſtill trouble the world, that would be ſo glad to be rid of yee! ther's nothing in't but vanitie and villanie, and ye know ye muſt part with't ſhortly; the Courts of Kings cannot give per<g ref="char:EOLhyphen"/>peruall protection to their unhappie inhabitants. I was great enough, and good enough to be a Courtier, and yet I fell in the height of my glorie. Come away. But let me not forget the Parliament, that remembers mee no queſtion.</p>
+            <p>Noble Lords and Gentlemen, though it will ſeeme ſtrange to the world that I ſhould comply now, who have beene ſo averſe in my life time, yet I cannot but acknowledge my thankfulneſſe to you for freeing your Coun<g ref="char:EOLhyphen"/>trey of the danger my longer life would have made it lyable to. I confeſſe I would faine have liv'd ſtill, that you might have periſhed; but as ſoone as yee had tooke off my head, my minde was alter'd. If the reſt that are ſicke of the ſame diſeaſe were cur'd i'the ſame manner, 't would be happie for <hi>England.</hi> My abode is very ſolitary, and I am inclin'd to Melancho<g ref="char:EOLhyphen"/>ly, pray ſend me ſome company: but in the meane time that I may with the more eaſe beare my affliction, go forward ſtill with courage in your admirable worke of preſerving two diſtreſſed Kingdomes. Truſt men as you know 'em, and relieve not all particular perſons according to their wants, but their merits: for there are many pretend they have been robb'd by the Rebels, that are little better then the Rebels that robb'd 'em, they make ſuit for maintenance, when they meane miſchiefe; their malice is ſo great they cannot hide it. 'Tis ſtrange we o'the other world, ſhould know more then you doe in this: but I cannot ſtay now to make any further diſcovery, my houre limited is expir'd, harke, I am call'd, I come, I come.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154729:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
